@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="welcome_message">ft_hangouts\n\nProyecto Android nativo\n\n42 Málaga</string>
+    <string name="contacts">Contactos</string>
+    <string name="contact_count">Contactos: %1$d</string>
+    <string name="empty_contacts">Todavía no hay contactos.\n¡Añade tu primer contacto!</string>
+    <string name="add_contact">Añadir contacto</string>
+    <string name="new_contact">Nuevo contacto</string>
+    <string name="first_name">Nombre *</string>
+    <string name="last_name">Apellidos</string>
+    <string name="phone">Teléfono *</string>
+    <string name="email">Correo electrónico</string>
+    <string name="address">Dirección</string>
+    <string name="notes">Notas</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="required_fields">El nombre y el teléfono son obligatorios.</string>
+    <string name="contact_saved">Contacto guardado correctamente.</string>
+    <string name="save_error">No se ha podido guardar el contacto.</string>
+</resources>
